@@ -1,0 +1,21 @@
+{
+  "name": "cow-calculator",
+  "private": true,
+  "version": "0.0.1",
+  "author": {
+    "name": "okineadev",
+    "url": "https://github.com/okineadev"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  }
+}
