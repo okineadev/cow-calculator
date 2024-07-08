@@ -64,11 +64,11 @@ h1, h2, h3, p, label {
   background-color: #fff; /* білий колір фону */
   padding: 20px;
   border-radius: 15px; /* заокруглені краї */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 40px #000000cb;
   text-align: center;
   display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
+  flex-direction: column;
+  justify-content: space-evenly;
 }
 
 .input-container {

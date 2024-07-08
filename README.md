@@ -1,1 +1,1 @@
-# The cow calculator (shitty draft XD)
+# The cow calculator
